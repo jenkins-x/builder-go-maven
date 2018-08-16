@@ -1,4 +1,4 @@
-FROM jenkinsxio/builder-go:0.0.407
+FROM jenkinsxio/builder-go:0.0.408
 
 # Maven
 ENV MAVEN_VERSION 3.5.3
